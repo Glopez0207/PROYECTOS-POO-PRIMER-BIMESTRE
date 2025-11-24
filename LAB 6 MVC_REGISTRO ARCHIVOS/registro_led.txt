@@ -1,0 +1,12 @@
+Robot GEN-1 estado LED: ENCENDIDO
+Robot GEN-1 estado LED: APAGADO
+MediBot GEN-2 estado LED: ENCENDIDO
+Robot GEN-1 estado LED: ENCENDIDO
+Robot GEN-1 estado LED: APAGADO
+MediBot GEN-2 estado LED: ENCENDIDO
+Robot GEN-1 estado LED: ENCENDIDO
+Robot GEN-1 estado LED: APAGADO
+MediBot GEN-2 estado LED: ENCENDIDO
+Robot GEN-1 estado LED: ENCENDIDO
+Robot GEN-1 estado LED: APAGADO
+MediBot GEN-2 estado LED: ENCENDIDO
